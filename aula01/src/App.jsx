@@ -21,9 +21,8 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
-        <p>
-          Primeira atividade da disciplina 'Tecnologias para Frontend III', Prof.Kelson Almeida, UNIESP 2024.1
-        </p>
+        <p>Primeira atividade da disciplina 'Tecnologias para Frontend III', Prof.Kelson Almeida, UNIESP 2024.1</p>
+        <p>Aluna: Symone Cavalcanti</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
