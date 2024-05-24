@@ -1,0 +1,28 @@
+{
+    "alunos": [
+        {
+            "id": 1,
+            "nome": "Pilar San Juan Batista",
+            "email": "pilarica@gmail.com",
+            "curso": "Sistemas de Informação"
+        },
+        {
+            "id": 2,
+            "nome": "Fábio San Juan Batista",
+            "email": "fabinho@gmail.com",
+            "curso": "Ciência da Computação"
+        },
+        {
+            "id": 3,
+            "nome": "Josileide Batista Cavalcanti",
+            "email": "josileide@gmail.com",
+            "curso": "Análise e Desenvolvimento de Sistemas"
+        },
+        {
+            "id": 4,
+            "nome": "Priscila Batista Cavalcanti Andrade",
+            "email": "pinto@gmail.com",
+            "curso": "UX/UI Design"
+        }
+    ]
+}
