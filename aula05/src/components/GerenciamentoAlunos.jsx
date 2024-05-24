@@ -19,12 +19,12 @@ const GerenciamentoAlunos = () => {
 
   return (
     <div>
-    <table border='1px'>
+    <table>
         <thead>
             <tr>
-                <th>Nome:</th>
-                <th>Email:</th>
-                <th>Curso:</th>
+                <th>Nome</th>
+                <th>Email</th>
+                <th>Curso</th>
             </tr>
         </thead>
         <tbody>
